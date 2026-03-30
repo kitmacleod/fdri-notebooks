@@ -32,7 +32,13 @@ Each notebook includes an install cell at the top. Run it to install dependencie
 |-------|------|--------|-----------|--------------|--------------|----|
 
 
+# ToDo
 
+- [ ] Add Binder to home page (like summer school)  
+- [ ] Add introductory page on data formats: NetCDF and Zaff incl object store  
+- [ ] Add JupyterLite set up info  
+- [ ] Decide granularity of notebooks (KM suggests uk-gear hourly, daily, and monthly NetCDF in one notebook)  
+- [ ] Need an FDRI GitHub repo for this  
 
 
 

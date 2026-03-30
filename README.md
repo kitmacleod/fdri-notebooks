@@ -32,14 +32,33 @@ Each notebook includes an install cell at the top. Run it to install dependencie
 |-------|------|--------|-----------|--------------|--------------|----|
 
 
-# ToDo
+# Guidelines for content
+- For each dataset, there needs to be Python and R content using best practices e.g. file names are human and machine readable lower case (hypens if needed to separate words).
+- Each notebook has brief introductory text with links to where further information can be found.
+- Each notebook has cells (or equivalent) that demonstrates: exploring the metadata, a time series plot, and spatial plot.
 
+# ToDo
+## General
 - [ ] Add Binder to home page (like summer school)  
-- [ ] Add introductory page on data formats: NetCDF and Zaff incl object store  
+ 
 - [ ] Add JupyterLite set up info  
 - [ ] Decide granularity of notebooks (KM suggests uk-gear hourly, daily, and monthly NetCDF in one notebook)  
-- [ ] Need an FDRI GitHub repo for this  
+- [ ] Need an FDRI GitHub repo for this
 
+## Dataset notebooks
+- [ ] Add CEH-GEAR Zarr
+- [ ] Add CHESS-met NetCDF
+- [ ] Add CHESS-met Zarr
+- [ ] Add HadUK-Grid NetCDF
+- [ ] Add Met Office UKV 2km precipitation
+- [ ] Add ERA5 NetCDF
+- [ ] Add ERA5 Zarr
+
+
+## Supporting pages
+- [ ] Add introductory page on data formats: NetCDF and Zaff incl object store
+- [ ] Add a Python page on packages and links
+- [ ]  Add a R page on packages and links
 
 
 
